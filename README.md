@@ -18,7 +18,7 @@
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000"/> 
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Next.js-14D8CC?style=flat&logo=Nextdotjs&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Next-113B92?style=flat&logo=Nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=ffffff"/> 
 </p>
 
