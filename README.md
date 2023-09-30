@@ -18,7 +18,7 @@
 <p>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Next.js-003057?style=flat&logo=Nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=ffffff"/> 
 </p>
 
