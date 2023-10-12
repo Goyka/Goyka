@@ -7,7 +7,7 @@
 ### ✦ 
 
 <p>
-• Frontend Engineer 김고야 입니다. <br/>
+• Frontend Developer 김고야 입니다. <br/>
 • 코드의 가독성, 성능 개선에 대해 고민하고 기쁨을 느낍니다.
 </p>
 <p>
