@@ -7,8 +7,8 @@
 ### ✦ 
 
 <p>
-• Frontend Developer 김고야 입니다. <br/>
-• 코드의 가독성, 성능 개선에 대해 고민하고 기쁨을 느낍니다.
+• Frontend Engineer. <br/>
+• 계획은 빠르고 정확하게, 개선은 집요하게 접근하는 개발자.
 </p>
 <p>
 
@@ -16,14 +16,13 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff"/> 
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000"/> 
-<img src="https://img.shields.io/badge/Next-113B92?style=flat&logo=Nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=ffffff"/>
 <br/>
-<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff"/>
 </p>
 
 
