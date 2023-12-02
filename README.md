@@ -23,6 +23,9 @@
 <br/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff"/>
+<br/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=000000"/> 
+<img src="https://img.shields.io/badge/Expo-ffffff?style=flat&logo=expo&logoColor=000020"/>
 </p>
 
 
