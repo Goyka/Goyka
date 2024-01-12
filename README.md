@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff"/>
 </p>
 
 
