@@ -7,11 +7,11 @@
 ### ✦ 
 
 <p>
-• UI / UX Engineer. <br/>
+• UI / UX Engineer <br/>
 • 기술적 고민에 에너지를 쏟았을 때, 유의미한 결과를 얻을 수 있는 기술 업무를 하고 싶어 개발자가 되었습니다.
 </p>
-<p>
 
+<p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=ffffff"/>
