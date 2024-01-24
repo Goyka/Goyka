@@ -18,11 +18,11 @@
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=000000"/> 
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Apollo GQL-311C87?style=flat&logo=apollographql&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/Next-191919?style=flat&logo=next.js&logoColor=ffffff"/>
 <br/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=ffffff"/>
 </p>
 
