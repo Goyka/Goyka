@@ -8,7 +8,7 @@
 
 <p>
 • Frontend Engineer <br/>
-• 기술적 고민에 에너지를 쏟았을 때, 유의미한 결과를 얻을 수 있는 기술 업무를 하고 싶어 개발자가 되었습니다.
+• 계획하고, 몰입하는 방식으로 일 하는 개발자입니다.
 </p>
 
 <p>
@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/Apollo GQL-311C87?style=flat&logo=apollographql&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/Next-191919?style=flat&logo=next.js&logoColor=ffffff"/>
 <br/>
+<img src="https://img.shields.io/badge/Material UI-007FFF?style=flat&logo=mui&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=ffffff"/>
 </p>
 
 
